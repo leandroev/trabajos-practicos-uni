@@ -1,4 +1,5 @@
 # Trabajos prácticos
 Algunos trabajos individuales o grupales de la uni
 
-### Por ahora no hay nada
+### Lista Tp's
+  -Tp1 Algoritmos y estructura de datos I
