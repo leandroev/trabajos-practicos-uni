@@ -1,3 +1,6 @@
 [submodule "TP-algoritmos1"]
 	path = TP-algoritmos1
 	url = https://github.com/leandroev/TP-algoritmos1
+[submodule "algoritmos2-TP-labo"]
+	path = algoritmos2-TP-labo
+	url = https://github.com/leandroev/algoritmos2-TP-labo
