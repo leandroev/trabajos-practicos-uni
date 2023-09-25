@@ -10,3 +10,6 @@
 [submodule "orga2-tp1"]
 	path = orga2-tp1
 	url = https://github.com/leandroev/orga2-tp1
+[submodule "orga2-tp2"]
+	path = orga2-tp2
+	url = https://github.com/leandroev/orga2-tp2
